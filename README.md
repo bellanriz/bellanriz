@@ -1,5 +1,5 @@
 ## Hey! i'm Bella!
-Im a student and an aspiring AI Engineer or anything that fates lead with the right path, currently busy with leetcode 👽
+Im a student and an aspiring AI Engineer or anything that fates lead me with the right path, currently busy with leetcode 👽
 
 <!--
 **bellanriz/bellanriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
