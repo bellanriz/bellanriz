@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hirad%20BellaNriz&fontSize=70&animation=twinkling" alt="Bella Nriz profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Bella%20Nriz&fontSize=70&animation=twinkling" alt="Bella Nriz profile header" />
 </p>
 
 <!-- Title -->
