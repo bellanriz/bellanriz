@@ -14,14 +14,6 @@
 </h3>
 
 <p align="center">
-  <samp>
-    「 Aspiring AI Engineer 」 •
-    「 Software Engineer 」 •
-    「 Fullstack Developer 」
-  </samp>
-</p>
-
-<p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=2000&color=6366F1&center=true&vCenter=true&width=1000&lines=Aspiring+AI+Engineer;Software+Engineer;Machine+Learning+Engineer;Computer+Vision+Engineer;Fullstack+Software+Developer"
     alt="Typing SVG"
@@ -34,12 +26,6 @@
     width="450"
     alt="Machine Learning Animation"
   />
-</p>
-
-<p align="center">
-  💻 Building AI-powered applications and scalable software systems <br>
-  🧠 Exploring Machine Learning, Computer Vision, and MLOps <br>
-  🚀 Passionate about Fullstack Development and Production AI
 </p>
 
 <p align="center">
