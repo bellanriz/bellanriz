@@ -42,35 +42,6 @@
 
 ---
 
-## 👩🏻‍💻 About Me
-
-```yaml
-name: Bella Nriz
-education:
-  - BSc Computer Science (Hons)
-
-roles:
-  - Aspiring AI Engineer
-  - Software Engineer
-  - Fullstack Developer
-
-interests:
-  - Machine Learning
-  - Computer Vision
-  - Artificial Intelligence
-  - MLOps
-  - Distributed Systems
-  - FinTech
-
-currently_learning:
-  - Production AI Systems
-  - AI Agents
-  - Cloud Infrastructure
-  - Advanced Machine Learning
-```
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -110,16 +81,6 @@ currently_learning:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=BellaNriz&theme=transparent&hide_border=true"/>
 </p>
-
----
-
-## 🚀 Current Focus
-
-- Building AI-powered applications
-- Learning Machine Learning Engineering
-- Exploring Computer Vision systems
-- Developing fullstack applications
-
 ---
 
 <p align="center">
@@ -130,4 +91,3 @@ currently_learning:
   <i>"Code. Learn. Build. Repeat."</i>
 </p>
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/BellaNriz/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/BellaNriz)
