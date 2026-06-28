@@ -15,7 +15,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=2000&color=6366F1&center=true&vCenter=true&width=1000&lines=Aspiring+AI+Engineer;Software+Engineer;Machine+Learning+Engineer;Computer+Vision+Engineer;Fullstack+Software+Developer"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=2000&color=6366F1&center=true&vCenter=true&width=1000&lines=Aspiring+AI+Engineer;Aspiring+Software+Engineer;Aspiring+Machine+Learning+Engineer;Computer+Vision;Fullstack+Software+Developer"
     alt="Typing SVG"
   />
 </p>
@@ -32,7 +32,6 @@
   <a href="YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/nabilahabass/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:YOUR_EMAIL">
