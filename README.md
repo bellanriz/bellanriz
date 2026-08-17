@@ -17,9 +17,9 @@
 
 <table align="center" width="80%">
   <tr>
-    <th width="30%">#</th>
-    <th width="90%">Hackathon</th>
-    <th width="80%">Prize / Achievement</th>
+    <th width="20%">#</th>
+    <th width="100%">Hackathon</th>
+    <th width="100%">Prize / Achievement</th>
   </tr>
 
   <tr>
