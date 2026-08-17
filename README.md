@@ -15,23 +15,25 @@
 
 
 
-<table align="center">
+<table align="center" width="80%">
   <tr>
-    <th>#</th>
-    <th>Hackathon</th>
-    <th>Achievement / Prize</th>
+    <th width="10%">#</th>
+    <th width="45%">Hackathon</th>
+    <th width="45%">Prize / Achievement</th>
   </tr>
+
   <tr>
     <td>01</td>
     <td>Touch 'n Go FinHack</td>
-    <td>Best of Digital & UI</td>
+    <td>🏆 Best of Digital & UI</td>
   </tr>
+
   <tr>
     <td>02</td>
     <td>Gamuda AI Academy Hackathon</td>
-    <td>2nd Runner-Up</td>
+    <td>🥉 2nd Runner Up</td>
   </tr>
-  <tr>
+</table>
     <td>03</td>
     <td>JomHack</td>
     <td>Participant</td>
