@@ -1,92 +1,186 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Bella%20Nriz&fontSize=70&animation=twinkling" alt="Bella Nriz profile header"/>
-</p>
+import { useState, useEffect } from 'react';
+import { motion } from 'motion/react';
+import { Download } from 'lucide-react';
+import { useTheme } from '../lib/ThemeContext';
 
-<h3 align="center">
-  <samp>
-    &gt; Hey There!, I am
-    <b>
-      <a href="https://www.linkedin.com/in/nabilahabass/" target="_blank">
-        Bella Nriz
-      </a>
-    </b>
-  </samp>
-</h3>
+const TITLES = [
+  'Aspiring AI Engineer',
+  'Fullstack AI Developer',
+  'Software Engineer',
+  'Machine Learning',
+  'Computer Vision Engineer',
+];
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=2000&color=6366F1&center=true&vCenter=true&width=1000&lines=Aspiring+AI+Engineer;Aspiring+Software+Engineer;Aspiring+Machine+Learning+Engineer;Computer+Vision;Fullstack+Software+Developer"
-    alt="Typing SVG"
-  />
-</p>
+export function ProfileHeader() {
+  const { theme } = useTheme();
 
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif"
-    width="450"
-    alt="Machine Learning Animation"
-  />
-</p>
+  const [titleIndex, setTitleIndex] = useState(0);
+  const [displayText, setDisplayText] = useState('');
+  const [isDeleting, setIsDeleting] = useState(false);
 
-<p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+  useEffect(() => {
+    const currentTitle = TITLES[titleIndex];
 
----
+    const typingSpeed = isDeleting ? 50 : 100;
+    const pauseAfterTyping = 2000;
 
-## 🛠️ Tech Stack
+    const timeout = setTimeout(() => {
+      // Finished typing
+      if (!isDeleting && displayText === currentTitle) {
+        setTimeout(() => {
+          setIsDeleting(true);
+        }, pauseAfterTyping);
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,php,cpp" />
-</p>
+        return;
+      }
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
+      // Finished deleting
+      if (isDeleting && displayText === '') {
+        setIsDeleting(false);
+        setTitleIndex((prev) => (prev + 1) % TITLES.length);
+        return;
+      }
 
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-</p>
+      // Typing
+      if (!isDeleting) {
+        setDisplayText(
+          currentTitle.slice(0, displayText.length + 1)
+        );
+      }
 
-### AI & Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
+      // Deleting
+      else {
+        setDisplayText(
+          displayText.slice(0, -1)
+        );
+      }
+    }, typingSpeed);
 
-### Tools & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,figma" />
-</p>
+    return () => clearTimeout(timeout);
+  }, [displayText, isDeleting, titleIndex]);
 
----
+  return (
+    <div className="p-10 border-b border-border bg-background transition-colors duration-300">
 
-## 📈 GitHub Analytics
+      {/* Profile */}
+      <div className="flex items-center gap-6 mb-8">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BellaNriz&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BellaNriz&layout=compact&theme=transparent&hide_border=true"/>
-</p>
+        {/* Profile Image */}
+        <div
+          className={`
+            w-24 h-24
+            rounded-full
+            overflow-hidden
+            border-4
+            shadow-xl
+            relative
+            group
+            ${
+              theme === 'dark'
+                ? 'border-zinc-900 bg-zinc-900'
+                : 'border-zinc-200 bg-zinc-100'
+            }
+          `}
+        >
+          <img
+            src="/images/dclassic.jpg"
+            alt="Nabilah Abas"
+            className="w-full h-full object-cover"
+          />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BellaNriz&theme=transparent&hide_border=true"/>
-</p>
----
+          {/* Hover Effect */}
+          <div className="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
+            <div className="w-8 h-8 rounded-full bg-white/20 backdrop-blur-sm border border-white/30" />
+          </div>
+        </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BellaNriz&label=Profile%20Views&color=6366F1&style=flat-square" />
-</p>
+        {/* Name */}
+        <div className="space-y-1">
+          <h1 className="text-4xl font-bold tracking-tight text-foreground">
+            Nabilah Abas
+          </h1>
 
-<p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
-</p>
+          <p className="text-base text-zinc-500 font-mono">
+            @nabilaanriz
+          </p>
+        </div>
+      </div>
 
+      {/* Introduction */}
+      <div className="mb-10 min-h-[100px]">
+
+        <p
+          className={`
+            text-xl
+            font-medium
+            mb-1
+            ${
+              theme === 'dark'
+                ? 'text-zinc-400'
+                : 'text-zinc-600'
+            }
+          `}
+        >
+          Just a chill girl passionate about
+        </p>
+
+        {/* Typing Animation */}
+        <div className="flex items-center gap-2">
+
+          <h2 className="text-4xl font-black text-foreground tracking-tighter">
+            {displayText}
+          </h2>
+
+          {/* Cursor */}
+          <motion.div
+            animate={{
+              opacity: [1, 0, 1],
+            }}
+            transition={{
+              duration: 0.8,
+              repeat: Infinity,
+            }}
+            className="w-1 h-10 bg-brand self-end mb-1"
+          />
+
+        </div>
+      </div>
+
+      {/* Buttons */}
+      <div className="flex flex-wrap gap-4">
+
+        {/* Resume */}
+        <a
+          href="/images/resume.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          className={`
+            px-6
+            py-3
+            font-bold
+            rounded-xl
+            flex
+            items-center
+            gap-2
+            transition-all
+            active:scale-95
+            text-sm
+            cursor-pointer
+            shadow-lg
+            no-underline
+            ${
+              theme === 'dark'
+                ? 'bg-white text-black hover:bg-zinc-200'
+                : 'bg-black text-white hover:bg-zinc-800'
+            }
+          `}
+        >
+          <Download size={18} />
+
+          Resume (Software Development)
+        </a>
+
+      </div>
+    </div>
+  );
+}
