@@ -14,3 +14,27 @@
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BellaNriz&show_icons=true&theme=transparent&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BellaNriz&layout=compact&theme=transparent&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=BellaNriz&theme=transparent&hide_border=true"/> </p> --- <p align="center"> <img src="https://komarev.com/ghpvc/?username=BellaNriz&label=Profile%20Views&color=6366F1&style=flat-square" /> </p> <p align="center"> <i>"Code. Learn. Build. Repeat."</i> </p>
 
 <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+
+
+<table align="center">
+  <tr>
+    <th>#</th>
+    <th>Hackathon</th>
+    <th>Achievement / Prize</th>
+  </tr>
+  <tr>
+    <td>01</td>
+    <td>Touch 'n Go FinHack</td>
+    <td>Best of Digital & UI</td>
+  </tr>
+  <tr>
+    <td>02</td>
+    <td>Gamuda AI Academy Hackathon</td>
+    <td>2nd Runner-Up</td>
+  </tr>
+  <tr>
+    <td>03</td>
+    <td>JomHack</td>
+    <td>Participant</td>
+  </tr>
+</table>
