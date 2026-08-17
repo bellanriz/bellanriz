@@ -15,7 +15,7 @@
 
 
 
-<table align="center" width="80%">
+<table align="center" width="200%">
   <tr>
     <th width="20%">#</th>
     <th width="100%">Hackathon</th>
