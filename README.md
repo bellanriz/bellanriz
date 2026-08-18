@@ -15,7 +15,7 @@
 
 Welcome to my dev log!
 
-I'm Bella,a software engineer and tech creator in Kul|Mel
+I'm Bella,a software engineer and tech creator in Kul but half of my me were in Mel,Aus.
 
 This is where I share my dev journey...the wins, the bugs, and everything in between. :D
     
@@ -32,16 +32,18 @@ This is where I share my dev journey...the wins, the bugs, and everything in bet
   </tr>
   <tr>
     <td>01</td>
-    <td>Touch 'n Go FinHack<br></td>
+    <td>ZenPay Finhack<br></td>
     <td>TouchnGo x Alibaba Cloud</td>
-    <td>[One-line description of what you built]</td>
+    <td>ZenPay is a fintech application built during FinHack2026 hackathon organized by Touch N Go, AWS, Developer Kaki, and Alibaba Cloud. The app focuses on real-time fraud detection for digital payment transactions.
+A machine learning-powered fraud detection system that analyzes transaction patterns in real-time, flagging suspicious activities before they complete.</td>
+
     <td>🏆 Best of Digital & UI</td>
   </tr>
   <tr>
     <td>02</td>
-    <td>Gamuda AI Academy Hackathon<br>[YEAR]</td>
-    <td>[LOCATION or Online]</td>
-    <td>[One-line description of what you built]</td>
+    <td>Gamuda AI Academy Hackathon<br></td>
+    <td>GAMUDA</td>
+    <td>Project Aura is a next generation dating platform that combines cutting edge AI technology with intuitive user experience to help people find meaningful connections. Built with modern web technologies and deployed on Google Cloud Platform, Aura provides a seamless, secure, and engaging environment for users to discover, connect, and interact.</td>
     <td>🥉 2nd Runner Up</td>
   </tr>
   <tr>
