@@ -38,8 +38,8 @@ This is where I share my dev journey...the wins, the bugs, and everything in bet
 <p>
   <b>Coders at night 🌙</b>
 </p>
----
 
+---
 <h3>Language and Tools</h3>
 
 <p align="center">
