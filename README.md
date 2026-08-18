@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&weight=900&duration=2500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Software+Engineer;Machine+Learning;Computer+Vision;Fullstack+Developer" />
+<ifont=Fira+Code&size=32&weight=900&duration=2500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Software+Engineer;Machine+Learning;Computer+Vision;Fullstack+Developer" />
 </p>
 
 
