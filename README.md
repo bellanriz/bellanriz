@@ -26,7 +26,7 @@ This is where I share my dev journey...the wins, the bugs, and everything in bet
   <tr>
     <th>#</th>
     <th>Hackathon</th>
-    <th>Location / Online</th>
+    <th>Organizer/Location</th>
     <th>Project</th>
     <th>Award/ Achievement</th>
   </tr>
