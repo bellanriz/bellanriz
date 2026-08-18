@@ -39,11 +39,13 @@ This is where I share my dev journey...the wins, the bugs, and everything in bet
   <b>Coders at night 🌙</b>
 </p>
 ---
-### 🛠️ Language & Tools
+
+🛠️ Language & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,py,mysql,html,css,js,ts,php,c,swift,tensorflow,pytorch,azure,gcp,aws,anaconda,react,nodejs,nextjs,jquery,flask,firebase,git,visualstudio,docker,figma" />
 </p>
+
 ---
 ### 🏆 Hackathon Achievements
 
