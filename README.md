@@ -15,15 +15,6 @@
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BellaNriz&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BellaNriz&theme=transparent&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BellaNriz&label=Profile%20Views&color=6366F1&style=flat-square" />
-</p>
 
 <p align="center">
   <i>"Code. Learn. Build. Repeat."</i>
