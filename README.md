@@ -18,15 +18,15 @@
 <table align="center" width="100%">
   <tr>
     <th>#</th>
-    <th>Hackathon & Year</th>
+    <th>Hackathon</th>
     <th>Location / Online</th>
-    <th>Project (one-liner)</th>
-    <th>Award / Achievement</th>
+    <th>Project</th>
+    <th>Award/ Achievement</th>
   </tr>
   <tr>
     <td>01</td>
-    <td>Touch 'n Go FinHack<br>[YEAR]</td>
-    <td>[LOCATION or Online]</td>
+    <td>Touch 'n Go FinHack<br></td>
+    <td>TouchnGo x Alibaba Cloud</td>
     <td>[One-line description of what you built]</td>
     <td>🏆 Best of Digital & UI</td>
   </tr>
