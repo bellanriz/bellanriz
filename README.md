@@ -34,9 +34,8 @@ This is where I share my dev journey...the wins, the bugs, and everything in bet
     <td>01</td>
     <td>ZenPay Finhack<br></td>
     <td>TouchnGo x Alibaba Cloud</td>
-    <td>ZenPay is a fintech application built during FinHack2026 hackathon organized by Touch N Go, AWS, Developer Kaki, and Alibaba Cloud. The app focuses on real-time fraud detection for digital payment transactions.
-A machine learning-powered fraud detection system that analyzes transaction patterns in real-time, flagging suspicious activities before they complete.</td>
-
+    <td>ZenPay is a fintech application built during FinHack2026 hackathon organized by Touch N Go, AWS, Developer Kaki, and Alibaba Cloud. The app focuses on real time fraud detection for digital payment transactions.
+A machine learning powered fraud detection system that analyzes transaction patterns in real time, flagging suspicious activities before they complete.</td>
     <td>🏆 Best of Digital & UI</td>
   </tr>
   <tr>
@@ -48,10 +47,10 @@ A machine learning-powered fraud detection system that analyzes transaction patt
   </tr>
   <tr>
     <td>03</td>
-    <td>JomHack<br>[YEAR]</td>
-    <td>[LOCATION or Online]</td>
-    <td>[One-line description of what you built]</td>
-    <td>Participant</td>
+    <td>Syncra<br></td>
+    <td>GDG KL/ Sunway University</td>
+    <td>Syncra solves this by treating ecosystem relationships as first class, programmable entities that can be created, managed, reused, and improved automatically across programmes, countries, and ecosystem actors.</td>
+    <td>Best System</td>
   </tr>
 </table>
 
