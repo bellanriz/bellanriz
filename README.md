@@ -12,13 +12,31 @@
 
 ---
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
-
 Welcome to my dev log!
 
-I'm Bella,a software engineer and tech creator in Kul but half of my me were in Mel,Aus.
-
+I'm Bella,
 This is where I share my dev journey...the wins, the bugs, and everything in between. :D
-    
+---
+<h3>💻 What I'm doing right now</h3>
+
+<p>
+  <b>Finding a job :(</b><br>
+  <code>#OpenToWork</code>
+</p>
+
+<p>
+  <b>Finding an Internship :(</b><br>
+  <code>#OpenToWork</code>
+</p>
+
+<p>
+  <b>Busy Upskilling</b>
+</p>
+
+<p>
+  <b>Coders at night 🌙</b>
+</p>
+
 ---
 ### 🏆 Hackathon Achievements
 
