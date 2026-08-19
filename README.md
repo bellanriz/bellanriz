@@ -78,6 +78,7 @@ A machine learning powered fraud detection system that analyzes transaction patt
     <td>GDG KL/ Sunway University</td>
     <td>Syncra solves this by treating ecosystem relationships as first class, programmable entities that can be created, managed, reused, and improved automatically across programmes, countries, and ecosystem actors.</td>
     <td>Best System</td>
+    
 ---  
 
 <p align="center">
