@@ -94,13 +94,7 @@ A machine learning powered fraud detection system that analyzes transaction patt
     <td>-</td>
   </tr>
   <tr>
-    <td>06</td>
-    <td>DOSM Datathon<br></td>
-    <td>Department of Statistic Malaysia (Goverment)</td>
-    <td>Ongoing.</td>
-    <td>-</td>
-  </tr>
-</table>
+
 
 ---
 
