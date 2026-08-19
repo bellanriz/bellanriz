@@ -86,14 +86,7 @@ A machine learning powered fraud detection system that analyzes transaction patt
     <td>Ongoing.</td>
     <td>-</td>
   </tr>
-  <tr>
-    <td>05</td>
-    <td>Shipaton<br></td>
-    <td>Shipaton</td>
-    <td>Ongoing.</td>
-    <td>-</td>
-  </tr>
-  <tr>
+
 
 
 ---
