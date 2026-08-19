@@ -79,14 +79,6 @@ A machine learning powered fraud detection system that analyzes transaction patt
     <td>Syncra solves this by treating ecosystem relationships as first class, programmable entities that can be created, managed, reused, and improved automatically across programmes, countries, and ecosystem actors.</td>
     <td>Best System</td>
   </tr>
-  <tr>
-    <td>04</td>
-    <td>Selangor AI Hackhaton<br></td>
-    <td>Selangor State Goverment (SHRDC)</td>
-    <td>Ongoing.</td>
-    <td>-</td>
-  </tr>
-
 
 
 ---
