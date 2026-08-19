@@ -85,8 +85,8 @@ A machine learning powered fraud detection system that analyzes transaction patt
     <td>ONGOING.</td>
     <td>-</td>
   </tr>
-  
----
+
+---  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BellaNriz&label=Profile%20Views&color=6366F1&style=flat-square" />
