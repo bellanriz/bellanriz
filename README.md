@@ -68,7 +68,7 @@ This is where I share my dev journey... the wins, the bugs, and everything in be
     <td>ZenPay FinHack</td>
     <td>Touch 'n Go × Alibaba Cloud</td>
     <td>
-      <b>ZenPay</b> — ML-powered real-time fraud detection
+      <b>ZenPay</b> — ML powered real time fraud detection
       for digital payment transactions.
     </td>
     <td>🏆 Best of Digital & UI</td>
@@ -76,10 +76,10 @@ This is where I share my dev journey... the wins, the bugs, and everything in be
 
   <tr>
     <td>02</td>
-    <td>Gamuda AI Academy Hackathon</td>
+    <td>Gamuda AI Academy </td>
     <td>GAMUDA</td>
     <td>
-      <b>AURA</b> — AI-powered dating platform built with
+      <b>AURA</b> — AI powered dating platform built with
       modern web technologies and Google Cloud.
     </td>
     <td>🥉 2nd Runner-Up</td>
