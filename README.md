@@ -57,7 +57,7 @@ This is where I share my dev journey... the wins, the bugs, and everything in be
 <table align="center" width="100%">
   <tr>
     <th>#</th>
-    <th>Hackathon</th>
+    <th>Hackathon Project</th>
     <th>Organizer / Location</th>
     <th>Project</th>
     <th>Award / Achievement</th>
