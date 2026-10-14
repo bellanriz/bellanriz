@@ -26,6 +26,7 @@
       <img src="./bella-octocat.png" width="300" alt="Bella's Octocat" />
     </td>
     <td width="65%" valign="middle">
+      Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
       <h3>🌷 Welcome to my little dev corner</h3>
       <p>This is where I share my dev journey — the wins, the bugs, and everything in between. :D</p>
       <p>🧠 Exploring <b>AI, machine learning &amp; computer vision</b></p>
