@@ -23,7 +23,7 @@
 <table>
   <tr>
     <td width="35%" align="center" valign="middle">
-      <img src="assets/bella-octocat.png" width="300" alt="Bella's Octocat with brown pigtails, a red jacket, sneakers, and a guitar" />
+      <img src="./bella-octocat.png" width="300" alt="Bella's Octocat" />
     </td>
     <td width="65%" valign="middle">
       <h3>🌷 Welcome to my little dev corner</h3>
