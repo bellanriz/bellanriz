@@ -71,23 +71,7 @@
 
 ---
 
-### 🏆 Little wins, big memories
-
-Hackathon projects that turned ideas into something real.
-
-| Project | What we built | Event / organizer | Achievement |
-| :--- | :--- | :--- | :--- |
-| **ZenPay** | ML-powered, real-time fraud detection for digital payment transactions. | ZenPay FinHack · Touch 'n Go × Alibaba Cloud | 🏆 **Best of Digital & UI** |
-| **AURA** | An AI-powered dating platform built with modern web technologies and Google Cloud. | Gamuda AI Academy · GAMUDA | 🥉 **2nd Runner-Up** |
-| **Syncra** | An ecosystem relationship management platform for programmes, countries, and ecosystem actors. | GDG KL / Sunway University | 🏆 **Best System** |
-
-<!-- Add each project's repository or demo URL to its name when ready. -->
-
----
-
 ### 💌 Let's build something lovely
-
-I'm looking for **job opportunities and internships** where I can learn, contribute, and build useful things with a supportive team.
 
 Interested in **AI, software engineering, or fullstack development**? I'd love to connect!
 
