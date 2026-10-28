@@ -32,7 +32,6 @@
       <p>🧠 Exploring <b>AI, machine learning &amp; computer vision</b></p>
       <p>💻 Building my skills in <b>software &amp; fullstack development</b></p>
       <p>🌱 Currently <b>upskilling, experimenting, and building</b></p>
-      <p>💌 Open to <b>job opportunities &amp; internships</b></p>
       <p>🌙 Late-night coder, one small breakthrough at a time.</p>
       <p><code>learn → build → debug → celebrate → repeat</code></p>
     </td>
