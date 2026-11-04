@@ -18,6 +18,11 @@
   <img src="https://img.shields.io/badge/currently-learning_%26_building-D8C4EF?style=flat-square&labelColor=352C3B" alt="Currently learning and building" />
 </p>
 
+<p align="center">
+  <a href="https://open.spotify.com/playlist/YOUR_PLAYLIST_ID">
+    <img src="./spotify-vinyl.svg" width="480" alt="Late-night commits — listen to Bella's coding playlist on Spotify" />
+  </a>
+</p>
 ---
 
 <table>
