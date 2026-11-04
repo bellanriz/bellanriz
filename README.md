@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/YOUR_PLAYLIST_ID">
-    <img src="./spotify-vinyl.svg" width="480" alt="Late-night commits — listen to Bella's coding playlist on Spotify" />
+    <img src="./spotify-vinyl.gif" width="480" alt="Late-night commits — open Bella's coding playlist on Spotify" />
   </a>
 </p>
 ---
