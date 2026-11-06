@@ -23,6 +23,7 @@
     <img src="./spotify-vinyl.gif" width="480" alt="Late-night commits — open Bella's coding playlist on Spotify" />
   </a>
 </p>
+
 ---
 
 <table>
@@ -89,4 +90,4 @@ Interested in **AI, software engineering, or fullstack development**? I'd love t
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BellaNriz&label=Little%20visits&color=D46A92&style=flat-square" alt="Profile view counter" />
-</p>\
+</p>
