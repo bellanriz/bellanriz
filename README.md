@@ -48,8 +48,6 @@
 
 ### 🧸 My developer toolbox
 
-<sub>Languages, frameworks, and tools I use and explore.</sub>
-
 #### Languages
 
 <p>
@@ -78,7 +76,7 @@
 
 ### 💌 Let's build something lovely
 
-Interested in **AI, software engineering, or fullstack development**? I'd love to connect!
+  Interested in **AI, software engineering, or fullstack development**? I'd love to connect! Feel free to follow me!
 
 <!-- Add your LinkedIn, portfolio, or professional email here. -->
 
