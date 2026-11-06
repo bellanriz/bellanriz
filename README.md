@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/open_to-work_%26_internships-F3B6CB?style=flat-square&labelColor=352C3B" alt="Open to work and collaboration or yapping about tech" />
+  <img src="https://img.shields.io/badge/open_to-work_%26_collaboration_or_yapping_about_tech-F3B6CB?style=flat-square&labelColor=352C3B" alt="Open to work and collaboration or yapping about tech" />
   <img src="https://img.shields.io/badge/currently-learning_%26_building-D8C4EF?style=flat-square&labelColor=352C3B" alt="Currently learning and building" />
 </p>
 
